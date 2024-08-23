@@ -4,9 +4,10 @@ export default function page() {
   return (
     <div className='max-w-6xl mx-auto p-3 space-y-4'>
       <h1 className='text-3xl text-amber-600 font-medium'>About</h1>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia fugiat dolor iusto ducimus sint consequuntur reiciendis libero dolores nam pariatur voluptas, ratione alias culpa cum animi?</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis a nostrum at recusandae iusto quasi laudantium sunt, odit porro non officia vitae, impedit necessitatibus ut illum nobis omnis officiis sint fugit similique ipsum minima error amet debitis. Quod iure culpa aut pariatur neque officiis odit exercitationem iste aspernatur fugit facilis perspiciatis dicta laborum quas et adipisci ut quia, numquam atque dolorem harum consequatur mollitia a. Earum nostrum laborum reprehenderit distinctio quisquam necessitatibus beatae esse repellat fugiat deserunt et, neque cumque tenetur, maxime excepturi, quod optio voluptas exercitationem magnam culpa atque!</p>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia fugiat dolor iusto ducimus sint consequuntur reiciendis libero dolores nam pariatur voluptas, ratione alias culpa cum animi?</p>
+      <p>Discover, track, and explore movies, TV shows, and celebrities with ease. Whether you're a film buff, a binge-watcher, or just looking for your next great watch, myIMDb has everything you need.</p>
+      <p>
+Discover myIMDb , your ultimate entertainment hub! Explore a vast library of movies, TV shows, and celebrity profiles. Enjoy personalized recommendations, manage your watchlist, and engage with a vibrant community through reviews and ratings. With advanced search features and up-to-date trending content,myIMDb makes finding and tracking your favorite entertainment easier than ever. Join us today and elevate your viewing experience!</p>
+      <p>myIMDb is your go-to destination for all things entertainment. Seamlessly explore an extensive database of movies, TV shows, and celebrity profiles. With personalized recommendations, a customizable watchlist, and detailed reviews, our app ensures you never miss out on great content. Stay updated with trending shows and movies, use advanced search tools to find exactly what you're looking for, and connect with a community of fellow enthusiasts. [Your App Name] makes discovering and managing your entertainment easier and more enjoyable than ever.</p>
     </div>
   )
 }
