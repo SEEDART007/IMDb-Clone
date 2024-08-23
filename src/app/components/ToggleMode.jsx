@@ -7,7 +7,7 @@ export default function ToggleMode() {
     const[mounted,setMounted]=useState(false)
     useEffect(()=>{
       setMounted(true)
-    },[])
+    },[]);
     const currentTheme=theme==='system'?systemTheme:theme
     
   return (
