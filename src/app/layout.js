@@ -5,7 +5,7 @@ import Providers from "./Providers";
 import Navbar from "./components/Navbar";
 import SearchBox from "./components/SearchBox";
 import { Suspense } from "react";
-import { AppProgressBar as ProgressBar } from "next-nprogress-bar";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
